@@ -167,3 +167,5 @@ printf("%s\n",follow[i]);
 }
 getch();
 }
+
+//E->TA, A->+TA, T->FB, B->*FB, F->(E), F->i, end
